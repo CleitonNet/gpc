@@ -1,0 +1,11 @@
+@import './fonts.css';
+@import './reset.css';
+@import './tailwindcss.css';
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: var(--azul-escuro);
+}

@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'Expansiva';
+    src: url('../fonts/expansiva.OTF') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ExpansivaItalic';
+    src: url('../fonts/expansiva_italic.OTF') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'ExpansivaBold';
+    src: url('../fonts/expansiva_bold.OTF') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ExpansivaBoldItalic';
+    src: url('../fonts/expansiva_bold_italic.OTF') format('opentype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Swis721Italic';
+    src: url('../fonts/swis721_lt_bt_light_italic.TTF') format('truetype');
+    font-weight: lighter;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Swis721';
+    src: url('../fonts/swis721_lt_bt_light.TTF') format('truetype');
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family: 'Swis721Ltex';
+    src: url('../fonts/swis721_ltex_bt_light.TTF') format('truetype');
+    font-weight: lighter;
+}

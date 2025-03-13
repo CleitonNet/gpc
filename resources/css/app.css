@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --Azul1:   #081b4e;
+    --Azul2:   #0b1e50;
+    --Azul4:   #0054ff;
+    --azul-escuro: #002868;
+    --azul-claro: #004A99;
+    --amarelo: #faba18;
+    --amarelo-claro: #f5e1ae;
+    --cinza-claro: #E0E0E0;
+    --branco: #FFFFFF;
+    --cinza-medio: #BDBDBD;
+    --preto: #212121;
+    --vermelho: #D32F2F;
+  }
